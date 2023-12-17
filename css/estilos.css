@@ -1,0 +1,14 @@
+@charset "UTF-8";
+#azul {
+	color: #0044ff;
+	font-size: 1.5em;
+}
+
+#verde {
+	color: #00fe57;
+	font-size: 5.5em;
+}
+
+#tabela {
+	border: 1px solid black;
+}
