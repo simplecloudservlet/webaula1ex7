@@ -1,4 +1,8 @@
 @charset "UTF-8";
+body {
+	font-family: Georgia;
+	font-size: 10px;
+}
 #azul {
 	color: #0044ff;
 	font-size: 1.5em;
